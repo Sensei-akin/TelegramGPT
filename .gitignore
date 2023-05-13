@@ -1,0 +1,9 @@
+
+/index*/
+*.env
+*.json
+**/__pycache*
+**/.vscode
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+getMessage.py
